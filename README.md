@@ -1,22 +1,19 @@
-# E-Commerce Website
+# OAuth Penetration Testing Store
+
+Thank you to github user @ssahibsingh for the E-Commerce template!
+Information on the original template can be found here: [https://github.com/ssahibsingh/React_E-Commerce/tree/main](url) 
 
 A Ecommerce Website made with React.js Framework.
 
 
 ## Demo
 
-https://reactjs-ecommerce-app.vercel.app/
+Update this
 
 ## Features
 
-- Easy to integrate with Backend
 - Fully Responsive
-
-
-## Screenshots
-
-![App Screenshot](https://i.ibb.co/fQ293tm/image.png)
-
+- TBA
 
 
 ## Run Locally
@@ -54,14 +51,5 @@ Start the server
 * [Bootstrap](https://getbootstrap.com/)
 * [Fake Store API](https://fakestoreapi.com/)
 
-## Contributing
-
-Contributions are always welcome!
-Just raise an issue, we will discuss it.
-
-
-## Feedback
-
-If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
 
 
